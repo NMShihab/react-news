@@ -1,0 +1,32 @@
+.navbar {
+  background-color: #3c444c;
+}
+
+.navbar__logo {
+  padding-right: 40px;
+  padding-top: 10px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.navbar__heading {
+  color: white;
+  text-align: center;
+}
+.navbar__heading h1 {
+  font-family: viga;
+  font-size: 30px;
+}
+
+.navbar__link {
+  color: white;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+.navbar__link h4 {
+  padding: 15px;
+  font-family: Montserrat;
+  font-size: 15px;
+}
