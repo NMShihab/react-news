@@ -1,7 +1,6 @@
 import React from "react";
 import FacebookIcon from "@material-ui/icons/Facebook";
 import TwitterIcon from "@material-ui/icons/Twitter";
-// import { makeStyles } from "@material-ui/core/styles";
 import "../css/Navbar.css";
 const Navbar = () => {
   const style = {
